@@ -7,7 +7,7 @@
 ### Query 3
 ![Query 3](Assets/chapter3_query3.png)
 ### Query 4
-![Query 4](Assets/chapter3_query4.png)
+![Query 4](Assets/Chapter3_query4.png)
 ## Collaborators
 **Mujeeb Adewuyi**   
 GitHub: [@Yamujeeb](https://github.com/Yamujeeb)
