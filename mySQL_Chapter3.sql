@@ -86,3 +86,24 @@ SELECT
 FROM film
 WHERE rental_duration BETWEEN 3 AND 6 
 ORDER BY rental_duration DESC;
+
+/********************************************************************
+Mujeeb
+Query 6: Write a query that reports the following:
+•	films that have (trailers OR behind the scenes) special features but NOT commentaries
+(keep in mind films that have both trailers and behind the scenes special features might also have other features)
+•	sort by title
+•	Note: to thoroughly test, temporarily commend out the WHERE clause
+*****************************************************************************************/
+SELECT 
+title, 
+release_year, 
+rating, 
+special_features
+FROM film
+WHERE 
+( special_features LIKE '%trailers%'
+OR special_features LIKE '%behind the scenes%'
+)
+AND special_features NOT LIKE '%commentaries%'
+ORDER BY title;
