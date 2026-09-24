@@ -9,7 +9,7 @@
 ### Query 4
 ![Query 4](Assets/Chapter3_query4.png)
 ### Query 5
-![Query 5](Assets/Chapter3_query5.png)
+![Query 5](Assets/chapter3_query5.png)
 ### Query 6
 ![Query 6](Assets/chapter3_query6.png)
 ### Query 7
