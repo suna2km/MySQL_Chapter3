@@ -1,13 +1,16 @@
 # MySQL_Chapter3.
+<b>Table of Content</b>
+- [Summary](#summary)
+- [Collaborators](#collaborators)
+- [New Concepts Used](#list-of-new-concepts-used)
+- [Console Output Example](#console-output-testing-as-images)
 
-## Collaborators
-**Mujeeb Adewuyi**   
-GitHub: [@Yamujeeb](https://github.com/Yamujeeb)
+## Summary
+This assignment is a collection of ten queries that deal with data such as customer, 
+film, rental information etc. In each query we manipulated how the data in the tables 
+is displayed by using concepts listed in the following section.
 
-**Suna Aregay**  
-GitHub: [@suna2km](https://github.com/suna2km)
-
-## List of New Concepts Used in this Assignment
+## List of New Concepts Used 
 - SELECT statements
 - DISTINCT
 - LIMIT
@@ -43,6 +46,7 @@ GitHub: [@suna2km](https://github.com/suna2km)
 ![Query 9](Assets/chapter3_query9.png)
 ### Query 10
 ![Query 10](Assets/chapter3_query10.png)
+
 ## Collaborators
 **Mujeeb Adewuyi**   
 GitHub: [@Yamujeeb](https://github.com/Yamujeeb)
