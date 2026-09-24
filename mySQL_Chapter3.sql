@@ -81,7 +81,7 @@ Query 5: Write a query that reports the following:
 *****************************************************************************************/
 SELECT 
 	title,
-    LEFT(description, 50) AS description, 
+    CONCAT(LEFT(description, 50), '...') AS info, 
     rental_duration
 FROM film
 WHERE rental_duration BETWEEN 3 AND 6 
