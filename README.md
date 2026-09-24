@@ -14,6 +14,8 @@
 ![Query 7](Assets/chapter3_query7.png)
 ### Query 8
 ![Query 8](Assets/chapter3_query8.png)
+### Query 9
+![Query 9](Assets/chapter3_query9.png)
 ### Query 10
 ![Query 10](Assets/chapter3_query10.png)
 ## Collaborators
