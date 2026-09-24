@@ -109,6 +109,22 @@ AND special_features NOT LIKE '%commentaries%'
 ORDER BY title;
 
 /********************************************************************
+Suna
+Query 7: Write a query that reports the following:
+ films that are rated G, PG, and PG-13 (note: please use the IN phrase for this filter)
+ sort by rating and title
+ Note: to thoroughly test this query, temporarily comment out the WHERE clause
+*****************************************************************************************/
+SELECT 
+	title,
+    rental_rate,
+    rating
+
+FROM film
+WHERE rating IN ('G', 'PG', 'PG-13')
+ORDER BY rating, title;
+
+/********************************************************************
 Mujeeb
 Query 8: Write a query that reports the following:
 •	films that have the words robot and squirrel in the description
