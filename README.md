@@ -6,7 +6,7 @@
 - [Console Output Example](#console-output-testing-as-images)
 
 ## Summary
-This assignment is a collection of ten queries that deal with data such as customer, 
+This assignment is a collection of ten single table queries that deal with data such as customer, 
 film, rental information etc. In each query we manipulated how the data in the tables 
 is displayed by using concepts listed in the following section.
 
