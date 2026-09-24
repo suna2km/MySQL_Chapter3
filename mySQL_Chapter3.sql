@@ -107,3 +107,31 @@ OR special_features LIKE '%behind the scenes%'
 )
 AND special_features NOT LIKE '%commentaries%'
 ORDER BY title;
+
+/********************************************************************
+Mujeeb
+Query 8: Write a query that reports the following:
+•	films that have the words robot and squirrel in the description
+•	sort by title
+•	Note: to thoroughly test this query, temporarily comment out the WHERE clause
+*****************************************************************************************/
+SELECT
+    title,
+    description
+FROM film
+WHERE description LIKE '%robot%'
+AND description LIKE '%squirrel%'
+ORDER BY title;
+/********************************************************************
+Mujeeb
+Query 10: Write a query that reports the following:
+•	unique districts
+•	sort by district
+•	limit the rows returned to start at the 2nd row and returning a total of 25 rows
+•	Note: to thoroughly test this query, temporarily remove the limit clause
+*****************************************************************************************/
+SELECT
+    district
+FROM address
+ORDER BY district
+LIMIT 1,25;
