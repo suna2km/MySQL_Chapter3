@@ -3,7 +3,7 @@
 ### Query 1
 ![Query 1](Assets/chapter3_query1.png)
 ### Query 2
-![Query 2](Assets/chapter3_query2)
+![Query 2](Assets/chapter3_query2.png)
 ### Query 3
 ![Query 3](Assets/chapter3_query3.png)
 ### Query 4
