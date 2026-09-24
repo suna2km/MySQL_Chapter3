@@ -1,4 +1,4 @@
-# MySQL_Chapter3.
+# MySQL_Chapter3
 <b>Table of Content</b>
 - [Summary](#summary)
 - [Collaborators](#collaborators)
