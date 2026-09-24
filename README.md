@@ -11,7 +11,7 @@ GitHub: [@suna2km](https://github.com/suna2km)
 - SELECT statements
 - DISTINCT
 - LIMIT
-- CONCA
+- CONCAT
 - LEFT 
 - ROUND 
 - CURRENT_DATE 
