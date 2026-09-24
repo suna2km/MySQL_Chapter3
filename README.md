@@ -1,5 +1,27 @@
 # MySQL_Chapter3.
-## Sample Output
+
+## Collaborators
+**Mujeeb Adewuyi**   
+GitHub: [@Yamujeeb](https://github.com/Yamujeeb)
+**Suna Aregay**  
+GitHub: [@suna2km](https://github.com/suna2km)
+
+## List of New Concepts Used in this Assignment
+- SELECT statements
+- DISTINCT
+- LIMIT
+- CONCA
+- LEFT 
+- ROUND 
+- CURRENT_DATE 
+- DATE_FORMAT
+- WHERE
+- LIKE 
+- NOT LIKE
+- ORDER BY 
+- ASC and DESC
+
+## console output testing as images
 ### Query 1
 ![Query 1](Assets/chapter3_query1.png)
 ### Query 2
