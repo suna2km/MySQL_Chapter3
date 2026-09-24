@@ -10,6 +10,8 @@
 ![Query 4](Assets/Chapter3_query4.png)
 ### Query 6
 ![Query 6](Assets/chapter3_query6.png)
+### Query 7
+![Query 7](Assets/chapter3_query7.png)
 ### Query 8
 ![Query 8](Assets/chapter3_query8.png)
 ### Query 10
